@@ -1,0 +1,23 @@
+.FontSize_Small {
+  font-size: 12px;
+}
+
+.FontSize_Medium {
+  font-size: 14px;
+}
+
+.FontSize {
+  font-size: 16px;
+}
+
+.FontSize_Large {
+  font-size: 20px;
+}
+
+.FontSize_XLarge {
+  font-size: 24px;
+}
+
+.Error_Color {
+  color: #b65151;
+}

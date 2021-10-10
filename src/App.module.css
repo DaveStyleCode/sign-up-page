@@ -1,0 +1,11 @@
+.Font_Default {
+  font-family: 'Hurme Geometric Sans 3', Helvetica, Arial, sans-serif;
+}
+
+.Container {
+  /* padding: 2rem; */
+}
+
+.Pre {
+  word-break: break-all;
+}

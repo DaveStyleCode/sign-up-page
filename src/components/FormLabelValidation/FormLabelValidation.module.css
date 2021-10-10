@@ -1,0 +1,18 @@
+.Label_Wrapper {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 0.375rem;
+}
+
+.Info_Text {
+  font-weight: 600;
+  font-size: 0.75rem;
+  margin: 0;
+  color: #666;
+}
+
+.Error_Text {
+  composes: Info_Text;
+  color: #b65151;
+}

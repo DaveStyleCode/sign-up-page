@@ -1,0 +1,19 @@
+._Default {
+  margin-bottom: 1.5em;
+  font-weight: 400;
+}
+
+._Small {
+  composes: _Default;
+  composes: FontSize_Small from '../../theme/theme.css';
+}
+
+._Medium {
+  composes: _Default;
+  composes: FontSize_Medium from '../../theme/theme.css';
+}
+
+._Center {
+  composes: _Default;
+  text-align: center;
+}
